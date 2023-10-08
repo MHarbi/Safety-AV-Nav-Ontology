@@ -1,2 +1,2 @@
 # Safety-AV-Nav-Ontology
-Navigation Ontology for Autonomous Vehicles Under Sensor Uncertainty
+Ontology for Safety of Navigation Sensors in Autonomous Vehicles
